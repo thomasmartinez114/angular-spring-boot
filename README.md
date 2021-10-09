@@ -1,0 +1,1 @@
+Angular, Typescript, Spring Boot
