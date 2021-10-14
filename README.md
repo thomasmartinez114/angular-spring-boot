@@ -14,3 +14,5 @@ Angular, Typescript, Spring Boot
 - Compiler Config can use a tsconfig.json so don't have to remember all the Compiler Flags
     - To create tsconfig template file
         - tsc --init
+        - add "noEmitOnError": true | this will automatically run it so dont got to in the command line
+    - Can now just simply run tsc and it will compile all .ts files in the dir
