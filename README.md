@@ -16,3 +16,6 @@ Angular, Typescript, Spring Boot
         - tsc --init
         - add "noEmitOnError": true | this will automatically run it so dont got to in the command line
     - Can now just simply run tsc and it will compile all .ts files in the dir
+
+- To remove all .js files from dir run the following to clean them out
+    - tsc --build --clean
