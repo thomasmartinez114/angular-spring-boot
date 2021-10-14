@@ -12,3 +12,5 @@ Angular, Typescript, Spring Boot
         - tsc --target ES5 --noEmitOnError [file.ts]
 
 - Compiler Config can use a tsconfig.json so don't have to remember all the Compiler Flags
+    - To create tsconfig template file
+        - tsc --init
