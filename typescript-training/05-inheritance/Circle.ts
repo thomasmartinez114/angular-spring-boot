@@ -2,8 +2,6 @@ import { Shape } from './Shape';
 
 export class Circle extends Shape {
 
-    private _radius: number;
-
     constructor(theX: number, theY: number,
         private _radius: number) {
 
