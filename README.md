@@ -19,3 +19,14 @@ Angular, Typescript, Spring Boot
 
 - To remove all .js files from dir run the following to clean them out
     - tsc --build --clean
+	
+#Angular
+- default port is 4200
+	- change port >> ng serve --port 5100 --open
+
+
+
+
+
+
+
